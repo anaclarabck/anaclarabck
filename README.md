@@ -1,7 +1,7 @@
 <h3>Hello world, I'm Ana Clara</h3>
 <h4>A web development student from Brazil</h4>
 
-<p>🔭 I’m currently studing on Trybe.com</p>
+<p>🔭 I’m currently studying on Trybe.com</p>
 <p>📫 How to reach me: ackyotoku@gmail.com</p>
 
 
@@ -10,7 +10,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaclarabck&show_icons=true&locale=en&layout=compact" alt="anaclarabck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anaclarabck&show_icons=true&locale=en" alt="anaclarabck" /></p>
+<br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anaclarabck&show_icons=true&locale=en" alt="anaclarabck" /></p>
 
 <!--
 **anaclarabck/anaclarabck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
