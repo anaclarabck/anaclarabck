@@ -1,7 +1,6 @@
 <h3>Hello world, I'm Ana Clara</h3>
-<h4>A web development student from Brazil</h4>
+<h4>A front-end developer from Brazil</h4>
 
-<p>🔭 I’m currently studying on Trybe.com</p>
 <p>📫 How to reach me: ackyotoku@gmail.com</p>
 
 
