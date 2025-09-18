@@ -1,11 +1,19 @@
-<h3>Hello world, I'm Ana Clara</h3>
-<h4>A front-end developer from Brazil</h4>
+## Hello world, I'm Ana Clara
+A front-end developer from Brazil
 
 <!-- <p>📫 How to reach me: ackyotoku@gmail.com</p> -->
+Frontend Developer focused on TypeScript, React, and Next.js.
+I love turning ideas into fast, accessible interfaces with clean, well-structured code.
 
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> </p>
+### Languages and Tools: 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?logo=vercel)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarabck&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
